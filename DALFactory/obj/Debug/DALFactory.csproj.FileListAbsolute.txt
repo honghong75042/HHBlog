@@ -1,0 +1,15 @@
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.DALFactory.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.DALFactory.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.AccessDAL.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.DBUtility.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.IDAL.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.Model.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.SQLServerDAL.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.DBUtility.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.AccessDAL.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.Model.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.SQLServerDAL.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\bin\Debug\Blogo.IDAL.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\obj\Debug\Blogo.DALFactory.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DALFactory\obj\Debug\Blogo.DALFactory.pdb

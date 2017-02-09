@@ -1,0 +1,7 @@
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\IDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\IDAL\bin\Debug\Blogo.IDAL.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\IDAL\bin\Debug\Blogo.IDAL.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\IDAL\bin\Debug\Blogo.Model.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\IDAL\bin\Debug\Blogo.Model.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\IDAL\obj\Debug\Blogo.IDAL.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\IDAL\obj\Debug\Blogo.IDAL.pdb

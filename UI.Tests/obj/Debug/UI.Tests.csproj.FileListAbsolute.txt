@@ -1,0 +1,8 @@
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\UI.Tests\bin\Debug\UI.Tests.dll.config
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\UI.Tests\bin\Debug\UI.Tests.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\UI.Tests\bin\Debug\UI.Tests.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\UI.Tests\bin\Debug\UI.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\UI.Tests\bin\Debug\UI.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\UI.Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\UI.Tests\obj\Debug\UI.Tests.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\UI.Tests\obj\Debug\UI.Tests.pdb

@@ -1,0 +1,5 @@
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\Model\bin\Debug\Blogo.Model.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\Model\bin\Debug\Blogo.Model.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\Model\obj\Debug\Blogo.Model.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\Model\obj\Debug\Blogo.Model.pdb

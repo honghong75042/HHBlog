@@ -1,0 +1,5 @@
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DBUtility\bin\Debug\Blogo.DBUtility.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DBUtility\bin\Debug\Blogo.DBUtility.pdb
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DBUtility\obj\Debug\Blogo.DBUtility.dll
+E:\VS2005_Project\NorthWind\Blogo\code\NNBlogo\DBUtility\obj\Debug\Blogo.DBUtility.pdb
